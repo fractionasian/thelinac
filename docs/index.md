@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to The Linac
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
