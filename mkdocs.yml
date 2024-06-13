@@ -1,0 +1,4 @@
+site_name: My Docs
+site_url: https://thelinac.com
+theme:
+  name: material
