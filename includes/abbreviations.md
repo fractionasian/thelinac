@@ -1,15 +1,10 @@
-*[HTML]: Hyper Text Markup Language
-*[W3C]: World Wide Web Consortium
-
 *[GTV]: Gross Tumour Volume
 *[CTV]: Clinical Target Volume
 *[ITV]: Internal Target Volume
 *[PTV]: Planning Target Volume
 *[OAR]: Organ At Risk
 *[PRV]: Planning Risk Volume
-
 *[BT]: Brachytherapy
-
 *[EBRT]: External Body Radiation Therapy
 *[Linac]: Linear Accelerator
 *[AP-PA]: Anterior-Posterior, Posterior-Anterior
@@ -17,17 +12,14 @@
 *[IMRT]: Intensity-Modulated Radiation Therapy
 *[VMAT]: Volumetric Modulated Arc Therapy
 *[IGRT]: Image-Guided Radiation Therapy
-
 *[SABR]: Stereotactic Ablative Body Radiotherapy
 *[SBRT]: Stereotactic Body Radiation Therapy
 *[SRS]: Stereotactic RadioSurgery
 *[SRT]: Stereotactic Radiation Therapy
-
 *[RFA]: RadioFrequency Ablation
 *[TACE]: Trans-Arterial Chemo-Embolization
 *[TARE]: Trans-Arterial Radio-Embolization
 *[SIRT]: Selective Internal Radiation Therapy
-
 *[RANZCR]: Royal Australian and New Zealand College of Radiology
 *[RCR]: Royal College of Radiologists
 *[FRO]: Faculty of Radiation Oncology
@@ -45,7 +37,6 @@
 *[NHMRC]: National Health and Medical Research Council
 *[PBS]: Pharmaceutical Benefits Scheme
 *[MBS]: Medicare Benefits Schedule
-
 *[XR]: X-Ray
 *[CT]: Computerised Tomography
 *[MRI]: Magnetic Resonance Imaging
@@ -55,7 +46,6 @@
 *[PSMA]: Prostate-Specific Membrane Antigen
 *[SPECT]: Single-Photon Emission Computed Tomography
 *[RECIST]: Response Evaluation Criteria In Solid Tumors
-
 *[CBCT]: Cone Beam CT (Computerised Tomography)
 *[DVH]: Dose Volume Histogram
 *[DRR]: Digitally Reconstructed Radiograph
@@ -65,7 +55,6 @@
 *[MV]: MegaVoltage
 *[kV]: kiloVoltage
 *[QA]: Quality Assurance
-
 *[ECOG]: Eastern Co-operative Oncology Group 
 *[KPS]: Karnofsky Performance Status
 *[RCT]: Randomised Controlled Trial
@@ -76,18 +65,11 @@
 *[HRQoL]: Health-Related Quality of Life
 *[QoL]: Quality of Life
 *[QALY]: Quality-Adjusted Life Year
-
 *[LQ]: Linear-Quadratic model
 *[EQD2]: Equivalent Dose in 2 Gy fractions
 *[BED]: Biologically Effective Dose
-*[]: 
-
 *[PSA]: Prostate-Specific Antigen
-
 *[EMR]: Electronic Medical Record
 *[CPD]: Continuing Professional Development
 *[MDT]: Multi-Disciplinary Team
 *[MDM]: Multi-Disciplinary Team Meeting
-*[]: 
-*[]: 
-*[]: 
