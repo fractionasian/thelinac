@@ -17,4 +17,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
         ...       # Other markdown pages, images and other files.
 
 !!! note
-    This is an admonition. HTML.
+    This is an admonition. IMRT. UICC. EQD2.
