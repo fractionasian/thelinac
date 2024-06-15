@@ -1,5 +1,6 @@
 site_name: The Linac
 site_url: https://thelinac.com
+site_author: Peter B. Nguyen
 theme:
   name: material
   palette:
