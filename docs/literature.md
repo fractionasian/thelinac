@@ -72,7 +72,7 @@ Currently the next step in my workflow is to open the link in a browser, and use
 
 This currently also requires me to log in to the journals to get the full text PDF, but it hasn't been a huge issue so far.
 
-I prefer to do my reading in Zotero, because if I need to reference the paper then it's already there. I also have a separate workflow to extract highlights and comments from the PDFs within Zotero but that's for another update in future...
+I prefer to do my reading in Zotero, because if I need to reference the paper then it's already there.
 
 ## Wrap-up
 
