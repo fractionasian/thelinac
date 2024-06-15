@@ -73,3 +73,4 @@
 *[CPD]: Continuing Professional Development
 *[MDT]: Multi-Disciplinary Team
 *[MDM]: Multi-Disciplinary Team Meeting
+*[RSS]: Really Simple Syndication
