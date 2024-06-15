@@ -5,6 +5,8 @@ theme:
   palette:
     primary: blue
     accent: blue
+  icon:
+    logo: material/radioactive-circle
   features:
     - navigation.instant
     - navigation.tracking
