@@ -53,7 +53,7 @@ I'm currently using [Reeder](https://www.reederapp.com/) because I like the UI, 
     QuadShot News: http://www.quadshotnews.com/feeds/posts/default?alt=rss<br>
     Radiation Oncology: https://pubmed.ncbi.nlm.nih.gov/rss/journals/101265111/?limit=100&amp;name=Radiat%20Oncol&amp;utm_campaign=journals<br>
     Red Journal: https://pubmed.ncbi.nlm.nih.gov/rss/journals/7603616/?limit=100&amp;name=Int%20J%20Radiat%20Oncol%20Biol%20Phys&amp;utm_campaign=journals<br><br>
-    [OPML file](attachments/RadOnc.opml){:download}
+    [OPML file](attachments/RadOnc.opml){:download="RadOnc.opml"}
 
 You can copy and paste the URLs for each of the Journals above (and QuadShot News), or you can download the OPML file and import that into the RSS reader.
 
