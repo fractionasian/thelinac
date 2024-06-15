@@ -16,18 +16,18 @@ In the same way, when you first subscribe to an RSS feed, everything will be "un
 
 Many academic journals publish an RSS feed, but I've found them to be a bit unreliable and inconsistent. I recently learnt that you can use PubMed to generate RSS feeds from search results.
 
-![Advanced Search - Journal autofill](/docs/img/rss1.png)
+![Advanced Search - Journal autofill](/img/rss1.png)
 You can see that when selecting the category to Journal, PubMed recommends the journal title. 
 
-![Demonstrating formatting of search terms](/docs/img/rss2.png)
+![Demonstrating formatting of search terms](/img/rss2.png)
 
-![Search results and highlighting "Create RSS button"](/docs/img/rss3.png)
+![Search results and highlighting "Create RSS button"](/img/rss3.png)
 This shows the search results, for all PubMed entries from the Red Journal. Immediately under the search box, the "Create RSS" link is what you want.
 
-![RSS feed parameters](/docs/img/rss4.png)
+![RSS feed parameters](/img/rss4.png)
 You can rename the RSS feed, and select the number of items displayed (I chose 100). Once you click the Create RSS button, PubMed will generate a URL for you to paste into your RSS reader.
 
-![Demonstrating the Lancet](/docs/img/rss5.png)
+![Demonstrating the Lancet](/img/rss5.png)
 Here I created a search team that was a combination of the Lancet journal, and the MeSH Major Topic "cancer". You can generate an RSS feed from ANY search this way.
 
 I did this for The Lancet and for NEJM, as the major papers are published in these larger banner journals.
@@ -59,12 +59,12 @@ You can copy and paste the URLs for each of the Journals above (and QuadShot New
 
 ## 3. Selecting articles to read
 
-![NetNewsWire screenshot](/docs/img/rss6.png)
+![NetNewsWire screenshot](/img/rss6.png)
 Above is a screenshot showing the UI for NetNewsWire.
 
 The left-most pane shows the feeds you're subscribed to, the middle pain shows the article titles, and the right-most pane shows the contents of the PubMed page.
 
-From here it's a matter of flicking through the article titles to see what's of interest to you, reading the abstract within the RSS reader.
+From here it's a matter of flicking through the article titles to see what's of interest to you, and reading the abstract within the RSS reader.
 
 ## 4. Saving articles to Zotero for reading
 
