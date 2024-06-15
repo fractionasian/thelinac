@@ -16,18 +16,18 @@ In the same way, when you first subscribe to an RSS feed, everything will be "un
 
 Many academic journals publish an RSS feed, but I've found them to be a bit unreliable and inconsistent. I recently learnt that you can use PubMed to generate RSS feeds from search results.
 
-![Advanced Search - Journal autofill](/img/rss1.png)
+![Advanced Search - Journal autofill](img/rss1.png)
 You can see that when selecting the category to Journal, PubMed recommends the journal title. 
 
-![Demonstrating formatting of search terms](/img/rss2.png)
+![Demonstrating formatting of search terms](img/rss2.png)
 
-![Search results and highlighting "Create RSS button"](/img/rss3.png)
+![Search results and highlighting "Create RSS button"](img/rss3.png)
 This shows the search results, for all PubMed entries from the Red Journal. Immediately under the search box, the "Create RSS" link is what you want.
 
-![RSS feed parameters](/img/rss4.png)
+![RSS feed parameters](img/rss4.png)
 You can rename the RSS feed, and select the number of items displayed (I chose 100). Once you click the Create RSS button, PubMed will generate a URL for you to paste into your RSS reader.
 
-![Demonstrating the Lancet](/img/rss5.png)
+![Demonstrating the Lancet](img/rss5.png)
 Here I created a search team that was a combination of the Lancet journal, and the MeSH Major Topic "cancer". You can generate an RSS feed from ANY search this way.
 
 I did this for The Lancet and for NEJM, as the major papers are published in these larger banner journals.
@@ -53,13 +53,13 @@ I'm currently using [Reeder](https://www.reederapp.com/) because I like the UI, 
     QuadShot News: http://www.quadshotnews.com/feeds/posts/default?alt=rss<br>
     Radiation Oncology: https://pubmed.ncbi.nlm.nih.gov/rss/journals/101265111/?limit=100&amp;name=Radiat%20Oncol&amp;utm_campaign=journals<br>
     Red Journal: https://pubmed.ncbi.nlm.nih.gov/rss/journals/7603616/?limit=100&amp;name=Int%20J%20Radiat%20Oncol%20Biol%20Phys&amp;utm_campaign=journals<br><br>
-    [OPML file](../attachments/RadOnc.opml)
+    [OPML file](attachments/RadOnc.opml)
 
 You can copy and paste the URLs for each of the Journals above (and QuadShot News), or you can download the OPML file and import that into the RSS reader.
 
 ## 3. Selecting articles to read
 
-![NetNewsWire screenshot](/img/rss6.png)
+![NetNewsWire screenshot](img/rss6.png)
 Above is a screenshot showing the UI for NetNewsWire.
 
 The left-most pane shows the feeds you're subscribed to, the middle pain shows the article titles, and the right-most pane shows the contents of the PubMed page.
