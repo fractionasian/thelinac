@@ -29,6 +29,16 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.smartsymbols:
+      trademark: true
+      copyright: true
+      registered: true
+      care_of: true
+      plusminus: true
+      arrows: true
+      notequal: true
+      fractions: true
+      ordinal_numbers: true
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
