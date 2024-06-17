@@ -40,20 +40,59 @@ You can [Google](https://www.google.com/search?q=best+RSS+reader+app) what the b
 I'm currently using [Reeder](https://www.reederapp.com/) because I like the UI, but I recommend [NetNewsWire](https://netnewswire.com/) as a free open-source option that has mobile apps.
 
 !!! abstract "My PubMed-generated RSS feeds"
-    Advances in Radiation Oncology: https://pubmed.ncbi.nlm.nih.gov/rss/journals/101677247/?limit=100&amp;name=Adv%20Radiat%20Oncol&amp;utm_campaign=journals<br>
-    Clinical Oncology:https://pubmed.ncbi.nlm.nih.gov/rss/journals/9002902/?limit=100&amp;name=Clin%20Oncol%20%28R%20Coll%20Radiol%29&amp;utm_campaign=journals<br>
-    CTRO: https://pubmed.ncbi.nlm.nih.gov/rss/journals/101713416/?limit=100&amp;name=Clin%20Transl%20Radiat%20Oncol&amp;utm_campaign=journals<br>
-    Green Journal: https://pubmed.ncbi.nlm.nih.gov/rss/journals/8407192/?limit=100&amp;name=Radiother%20Oncol&amp;utm_campaign=journals<br>
-    IJPT: https://pubmed.ncbi.nlm.nih.gov/rss/journals/101674108/?limit=100&amp;name=Int%20J%20Part%20Ther&amp;utm_campaign=journals<br>
-    JCO: https://pubmed.ncbi.nlm.nih.gov/rss/journals/8309333/?limit=100&amp;name=J%20Clin%20Oncol&amp;utm_campaign=journals<br>
-    JMIRO: https://pubmed.ncbi.nlm.nih.gov/rss/journals/101469340/?limit=100&amp;name=J%20Med%20Imaging%20Radiat%20Oncol&amp;utm_campaign=journals<br>
-    Lancet Cancer: https://pubmed.ncbi.nlm.nih.gov/rss/search/1zMxz2uiAqn1qZkCsB7rgeI9q82n4687T9lKlWo88TKDp6wYM9/?limit=100&amp;utm_campaign=pubmed-2&amp;fc=20240612092724<br>
-    NEJM Oncology: https://pubmed.ncbi.nlm.nih.gov/rss/search/1NGmwZeh8JwZIzqtdCRg1eBm2wNTBszircJk1muY80w5XgRsvV/?limit=100&amp;utm_campaign=pubmed-2&amp;fc=20240612090744<br>
-    PRO: https://pubmed.ncbi.nlm.nih.gov/rss/journals/101558279/?limit=100&amp;name=Pract%20Radiat%20Oncol&amp;utm_campaign=journals<br>
-    QuadShot News: http://www.quadshotnews.com/feeds/posts/default?alt=rss<br>
-    Radiation Oncology: https://pubmed.ncbi.nlm.nih.gov/rss/journals/101265111/?limit=100&amp;name=Radiat%20Oncol&amp;utm_campaign=journals<br>
-    Red Journal: https://pubmed.ncbi.nlm.nih.gov/rss/journals/7603616/?limit=100&amp;name=Int%20J%20Radiat%20Oncol%20Biol%20Phys&amp;utm_campaign=journals<br><br>
-    [OPML file](attachments/RadOnc.opml){:download="RadOnc.opml"}
+    Advances in Radiation Oncology: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/101677247/?limit=100&amp;name=Adv%20Radiat%20Oncol&amp;utm_campaign=journals
+    ```
+    Clinical Oncology:
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/9002902/?limit=100&amp;name=Clin%20Oncol%20%28R%20Coll%20Radiol%29&amp;utm_campaign=journals
+    ```
+    CTRO: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/101713416/?limit=100&amp;name=Clin%20Transl%20Radiat%20Oncol&amp;utm_campaign=journals
+    ```
+    Green Journal: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/8407192/?limit=100&amp;name=Radiother%20Oncol&amp;utm_campaign=journals
+    ```
+    IJPT: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/101674108/?limit=100&amp;name=Int%20J%20Part%20Ther&amp;utm_campaign=journals
+    ```
+    JCO: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/8309333/?limit=100&amp;name=J%20Clin%20Oncol&amp;utm_campaign=journals
+    ```
+    JMIRO: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/101469340/?limit=100&amp;name=J%20Med%20Imaging%20Radiat%20Oncol&amp;utm_campaign=journals
+    ```
+    Lancet Cancer: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/search/1zMxz2uiAqn1qZkCsB7rgeI9q82n4687T9lKlWo88TKDp6wYM9/?limit=100&amp;utm_campaign=pubmed-2&amp;fc=20240612092724
+    ```
+    NEJM Oncology: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/search/1NGmwZeh8JwZIzqtdCRg1eBm2wNTBszircJk1muY80w5XgRsvV/?limit=100&amp;utm_campaign=pubmed-2&amp;fc=20240612090744
+    ```
+    PRO: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/101558279/?limit=100&amp;name=Pract%20Radiat%20Oncol&amp;utm_campaign=journals
+    ```
+    QuadShot News: 
+    ```
+    http://www.quadshotnews.com/feeds/posts/default?alt=rss
+    ```
+    Radiation Oncology: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/101265111/?limit=100&amp;name=Radiat%20Oncol&amp;utm_campaign=journals
+    ```
+    Red Journal: 
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/7603616/?limit=100&amp;name=Int%20J%20Radiat%20Oncol%20Biol%20Phys&amp;utm_campaign=journals
+    ```
+    [OPML file](attachments/RadOnc.opml){:download="RadOnc.opml"} <--
 
 You can copy and paste the URLs for each of the Journals above (and QuadShot News), or you can download the OPML file and import that into the RSS reader.
 
