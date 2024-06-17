@@ -74,3 +74,11 @@
 *[MDT]: Multi-Disciplinary Team
 *[MDM]: Multi-Disciplinary Team Meeting
 *[RSS]: Really Simple Syndication
+*[CTRO]: Clinical and Translational Radiation Oncology
+*[Green Journal]: Radiotherapy and Oncology
+*[IJPT]: International Journal of Particle Therapy
+*[JCO]: Journal of Clinical Oncology
+*[JMIRO]: Journal of Medical Imaging and Radiation Oncology
+*[NEJM]: New England Journal of Medicine
+*[PRO]: Practical Radiation Oncology
+*[Red Journal]: International Journal of Radiation Oncology, Biology, Physics
