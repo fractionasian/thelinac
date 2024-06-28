@@ -60,6 +60,10 @@ I'm currently using [Reeder](https://www.reederapp.com/) because I like the UI, 
     ```
     https://pubmed.ncbi.nlm.nih.gov/rss/journals/101674108/?limit=100&amp;name=Int%20J%20Part%20Ther&amp;utm_campaign=journals
     ```
+    JAMA Oncology:
+    ```
+    https://pubmed.ncbi.nlm.nih.gov/rss/journals/101652861/?limit=100&name=JAMA%20Oncol&utm_campaign=journals
+    ```
     JCO: 
     ```
     https://pubmed.ncbi.nlm.nih.gov/rss/journals/8309333/?limit=100&amp;name=J%20Clin%20Oncol&amp;utm_campaign=journals
